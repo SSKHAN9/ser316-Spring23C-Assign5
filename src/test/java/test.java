@@ -15,6 +15,4 @@ public class test {
         Assert.assertEquals("Hello World", bos.toString());
         System.setOut(originalOut);
     }
-    }
-
 }
